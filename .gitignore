@@ -1,0 +1,20 @@
+# Секреты и ключи доступа
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Рабочие файлы агента
+.mimocode/
+
+# Локальный журнал разработки — в GitHub не добавлять
+devlog.md
